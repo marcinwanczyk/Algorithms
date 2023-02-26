@@ -1,3 +1,3 @@
 # School Project
-A small lookup on how greedy algorithms work, comparison
+A small lookup on how greedy/genetic algorithms work, comparison
 
